@@ -14,5 +14,6 @@ A simple **ATM simulation project** built using Python, demonstrating cash withd
 ## 🚀 How to Run
 1. Clone the repo  
    ```sh
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/AnuPrakash/ATM-Simulator.git
+cd ATM-Simulator
+
